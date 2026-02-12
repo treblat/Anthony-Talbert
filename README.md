@@ -18,6 +18,11 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 - [Phishing Incident Response](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/phishing-incident-response.md)  
 - [Wireshark Traffic Analysis](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/wireshark-traffic-analysis.md)
 
+ 
+ ##  Fundamental Labs/ Projects
+
+ - THM SOC Simulator
+
 ---
 
 ##  Certifications
