@@ -17,7 +17,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 - [Vulnerability Management (Nessus)](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/vulnerability-management-nessus.md) 
 - [Phishing Incident Response](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/phishing-incident-response.md)  
 - [Wireshark Traffic Analysis](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/wireshark-traffic-analysis.md)
-- [THM SOC Simulator(Splunk)](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/THM-SOC-simulator.md)
+- [THM SOC Simulator(Splunk)](https://github.com/treblat/THM-SOC-Simulator-Lab)
 
  
  ##  Fundamental Labs/ Projects
