@@ -12,7 +12,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ##  Featured SOC Projects
 
-- [Active Directory Home Lab](https://github.com/treblat/SOC-Analyst-Lab-Portfolio/blob/main/Active-directory-home-lab.md) 
+- [Active Directory Home Lab](https://github.com/treblat/Active-Directory-Lab/tree/main)
 - Splunk SIEM Detection Lab
 - Vulnerability Management (Nessus)  
 - Phishing Incident Response  
