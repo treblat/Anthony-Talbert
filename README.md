@@ -1,4 +1,4 @@
-# Anthony Talbert Jr. — Tier 1 SOC Analyst Portfolio 
+# Anthony Talbert Jr. — Tier 1 SOC/ IT Analyst Portfolio 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-success)](#)
