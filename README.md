@@ -10,7 +10,7 @@
 
 Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity/ IT lab experience focused on Security Operations Center (SOC) Tier 1 workflows.
 
-##  Featured SOC Projects
+##  Featured cyber/ IT security Projects
 
 - [Active Directory Home Lab](https://github.com/treblat/Active-Directory-Lab/tree/main)
 - Splunk SIEM Detection Lab
