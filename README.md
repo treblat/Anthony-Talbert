@@ -44,4 +44,4 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab 
 
 ##  Career Objective
 
-Seeking an entry-level SOC Analyst Tier 1 role applying military discipline and defensive cybersecurity expertise.
+Seeking an entry-level SOC/ IT Analyst Tier 1 role applying military discipline and defensive cybersecurity knowledge.
