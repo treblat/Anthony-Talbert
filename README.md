@@ -8,7 +8,7 @@
 
 ---
 
-Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity lab experience focused on Security Operations Center (SOC) Tier 1 workflows.
+Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity/ IT lab experience focused on Security Operations Center (SOC) Tier 1 workflows.
 
 ##  Featured SOC Projects
 
