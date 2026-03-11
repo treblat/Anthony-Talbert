@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anthony-talbert-jr-005399391)
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-success)](#)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](#)
-[![Network+ (In Progress)](https://img.shields.io/badge/CompTIA-Network%2B_In%20Progress-yellow)](#)
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B_In%20Progress-yellow)](#)
 [![CySA+ (In Progress)](https://img.shields.io/badge/CompTIA-CySA%2B_In%20Progress-orange)](#)
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.talbert01.png)](https://tryhackme.com/p/a.talbert01)
 
