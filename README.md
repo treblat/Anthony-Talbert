@@ -14,7 +14,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity/ IT 
 ##  Featured cyber/ IT security Projects
 
 - [Active Directory Home Lab](https://github.com/treblat/Active-Directory-Lab/tree/main)
-- Splunk SIEM Detection Lab
+- [Splunk SIEM Detection Lab](https://github.com/treblat/Spulnk-SIEM-Detection/blob/main/README.md)
 - Vulnerability Management (Nessus)  
 - Phishing Incident Response  
 - Wireshark Traffic Analysis 
