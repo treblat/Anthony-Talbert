@@ -32,7 +32,7 @@ Transitioning U.S. Army Military Police Soldier with hands-on cybersecurity/ IT 
 -  CompTIA A+  
 -  CompTIA Security+  
 -  CompTIA Network+ 
--  CompTIA CySA+ (In Progress)
+-  CompTIA CySA+
 
 ---
 
