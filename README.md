@@ -5,7 +5,7 @@
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](#)
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-yellow)](#)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-orange)](#)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/a.talbert01.png)](https://tryhackme.com/p/a.talbert01)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Treblat.png)](https://tryhackme.com/p/Treblat)
 
 ---
 
