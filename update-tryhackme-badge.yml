@@ -34,7 +34,7 @@ jobs:
         image_path: './assets/tryhackme-badge.png'
         username: 'Treblat'
         user_id: 'your_tryhackme_user_id'
-        GITHUB_TOKEN: ${{ secrets.47be7edd06ed2b09af722931 }}
+        GITHUB_TOKEN: ${{ secrets.THM_TOKEN }}
 
     - name: Commit and push badge if changed
       env:
